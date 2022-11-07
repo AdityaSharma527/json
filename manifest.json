@@ -1,0 +1,20 @@
+{
+    "service": "application-name",
+    "regions": [
+        {
+            "name": "us-east-1",
+            "version": "3.6.1",
+            "enable": "true"
+        },
+        {
+            "name": "eu-west-2",
+            "version": "3.8.6",
+            "enable": "false"
+        },
+        {
+            "name": "eu-west-1",
+            "version": "3.5.2",
+            "enable": "false"
+        }
+    ]
+}
